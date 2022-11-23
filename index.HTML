@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ordem Teutônica - Home</title>
+    <link rel="icon" href="/docs/imagens/logo.ico.ico" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="./node_modules/bootstrap/dist/css/bootstrap.css"
+    />
+  </head>
+  <body class="bg-padrao">
+    <header>
+      <nav class="navbar navbar-expand-lg bg-padrao2 fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand fs-4 text" href="#">
+            <img
+              src="./docs/imagens/Screenshot_3.png"
+              alt="Logo"
+              width="48"
+              height="38"
+              class="d-inline-block align-text-top"
+            />
+            Ordem Teutônica
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarScroll"
+            aria-controls="navbarScroll"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarScroll">
+            <ul
+              class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+              style="--bs-scroll-height: 100px"
+            >
+              <li class="nav-item">
+                <a
+                  class="nav-link active fs-5 text"
+                  aria-current="page"
+                  href="#"
+                  >Home</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fs-5 text" href="#">Servidor</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle fs-5 text"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Links Úteis
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#"></a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><hr class="dropdown-divider" /></li>
+                  <li>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Beta</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input
+                class="form-control me-2"
+                type="search"
+                placeholder="Pesquisar..."
+                aria-label="Search"
+              />
+              <button class="btn btn-dark" type="submit">Pesquisar</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+  </body>
+</html>
