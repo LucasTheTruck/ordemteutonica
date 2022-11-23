@@ -6,6 +6,6 @@ Só somos capazes de amar aquilo que conhecemos.
 
 Este repositório será unica e totalmente voltado para o objetivo de construir um acervo virtual para a Ordem Teutônica.
 
-Meu objetivo com a construção deste catálogo é expandir o conhecimento da Santa Igreja e garantir não tenhamos apenas o estudo aprofundado e profissional, mas também a fácil e simples compreensão. A estrutura do site e suas características ainda serão devidamente elaboradas, mas rezo eu para que em breve possamos concretizar esta nossa obra de um jeito ou de outro.
+Meu objetivo com a construção deste catálogo é expandir o conhecimento da Santa Igreja e garantir que não tenhamos apenas o estudo aprofundado e profissional, mas também a fácil e simples compreensão. A estrutura do site e suas características ainda serão devidamente elaboradas, mas rezo eu para que em breve possamos concretizar esta nossa obra de um jeito ou de outro.
 
 Que Deus nos ajude.
